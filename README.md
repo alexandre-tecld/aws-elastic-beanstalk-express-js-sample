@@ -1,12 +1,13 @@
-# AWS Elastic Beanstalk Node.js Sample App
+# Aplicativo de exemplo AWS Elastic Beanstalk Node.js
 
-This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
+Este repositório contém um aplicativo web Node.js de amostra criado usando o Express , destinado a ser usado como parte do Caminho de aprendizado do AWS DevOps.
 
-## Security
+## Acesse
+Acesse o arquivo Video Exemplo, onde mostro o funcionamento da pepiline e aplicação
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## License
+## Segurança
+Consulte CONTRIBUINDO para obter mais informações.
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+## Licença
+Esta biblioteca está licenciada sob a Licença MIT-0. Consulte o arquivo LICENÇA.
